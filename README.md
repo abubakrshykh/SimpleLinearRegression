@@ -24,13 +24,7 @@ The model is implemented using the Python language and the scikit-learn library.
 The model has been trained using the 80% of dataset and the performance metrics have been evaluated using evaluation metrics such as R-squared.
 
 
-**Contributions** to this project are welcome. To contribute, follow these steps:
-
-Fork this repository
-Create a new branch (git checkout -b feature/new-feature)
-Make your changes and commit them (git commit -am 'Add new feature')
-Push to the branch (git push origin feature/new-feature)
-Create a new pull request
+**Contributions** to this project are welcome. 
 
 # License
 This repository is licensed under the MIT License. Feel free to use the code and dataset for your own projects or research.
